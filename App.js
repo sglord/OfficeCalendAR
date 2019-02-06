@@ -34,9 +34,8 @@
 // });
 
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
 import { createStackNavigator, createAppContainer } from 'react-navigation';
-import { HomeScreen, AwayScreen } from './HomeScreen';
+import { HomeScreen } from './HomeScreen';
 import CalendarScreen from './CalendarScreen';
 import CameraScreen from './CameraScreen';
 

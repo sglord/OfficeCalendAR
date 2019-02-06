@@ -18,13 +18,3 @@ export class HomeScreen extends React.Component {
 		);
 	}
 }
-
-export class AwayScreen extends React.Component {
-	render() {
-		return (
-			<View>
-				<Text>Away Scen</Text>
-			</View>
-		);
-	}
-}
