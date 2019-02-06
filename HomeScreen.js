@@ -23,7 +23,7 @@ export class AwayScreen extends React.Component {
 	render() {
 		return (
 			<View>
-				<Text>Away Screen</Text>
+				<Text>Away Scen</Text>
 			</View>
 		);
 	}
